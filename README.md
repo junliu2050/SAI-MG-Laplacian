@@ -1,4 +1,4 @@
-# SPAI-MG-Laplacian
+# SAI-MG-Laplacian
 The MATLAB codes for reproducing the figures in our preprint "Optimized sparse approximate inverse smoothers for solving Laplacian linear systems", by Yunhui He, Jun Liu, and Xiang-Sheng Wang.
 
 # Detail (on MATLAB R2016b or later)
